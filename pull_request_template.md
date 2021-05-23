@@ -1,8 +1,4 @@
 ## チケットへのリンク
-
-* https://team-september.atlassian.net/jira/software/projects/A0/boards/3?selectedIssue=A0-{チケットの番号}
-
-## チケットへのリンク
 <!-- チケットの番号を追加(https://.........A0-チケット番号) -->
 - [該当チケット](https://team-september.atlassian.net/jira/software/projects/A0/boards/3?selectedIssue=A0-チケットの番号)
 
