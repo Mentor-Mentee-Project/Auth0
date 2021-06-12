@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/team-september/Auth0/issues"
   },
-  "homepage": "https://github.com/team-september/Auth0#readme"
+  "homepage": "https://github.com/team-september/Auth0#readme",
+  "dependencies": {
+    "auth0-deploy-cli": "^5.5.7"
+  }
 }
